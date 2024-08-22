@@ -31,5 +31,7 @@ python music_bot.py
 ### Usage
 
 !play <YouTube URL or search query>: Play a song or add it to the queue.
+
 !skip: Skip the current song.
+
 !stop: Stop playback and clear the queue.
