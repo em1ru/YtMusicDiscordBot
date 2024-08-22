@@ -1,5 +1,3 @@
-## Getting Started
-
 ### Prerequisites
 - Python 3.7+
 - `discord.py` library
